@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "file-system": "^2.2.2"
   },
   "devDependencies": {},
   "scripts": {
