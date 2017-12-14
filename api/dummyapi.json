@@ -1,0 +1,17 @@
+[
+	{
+		"name": "John",
+		"degree": "Bsc",
+		"grade": "A+"
+	},
+	{
+		"name": "Mike",
+		"degree": "Msc",
+		"grade": "B+"
+	},
+	{
+		"name": "Joe",
+		"degree": "M.Tech",
+		"grade": "AB+"
+	}
+]
